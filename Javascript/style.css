@@ -1,0 +1,11 @@
+body{
+    background-color: turquoise;
+}
+
+#game{
+    height: 400px;
+    width: 800px;
+    border: 10px solid white;
+    background-color: black;
+    box-shadow:10px 10px 10px rgb(114, 114, 114);
+}
